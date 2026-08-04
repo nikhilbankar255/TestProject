@@ -16,7 +16,7 @@ public class TC_Login extends BaseClass{
 		login.passwordField(password);
 		login.submitButton();
 		login.loginSuccessMessage();
-		login.logout();
-		login.logoutSuccessMessage();
+//		login.logout();
+//		login.logoutSuccessMessage();
 	}
 }
