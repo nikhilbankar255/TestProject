@@ -1,6 +1,7 @@
 package JavaCodePractice;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -32,7 +33,7 @@ public class RemoveDuplicateNumbersArray {
 		
 		System.out.println("Duplicate numbers in list:"+list);
 		//using set
-		Set<Integer> set=new LinkedHashSet<Integer>();
+		Set set=new HashSet();
 		
 		for(int i:a)
 		{
