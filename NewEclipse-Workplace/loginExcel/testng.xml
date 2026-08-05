@@ -5,5 +5,6 @@
     <classes>
       <class name="testCases.TC_Login"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
