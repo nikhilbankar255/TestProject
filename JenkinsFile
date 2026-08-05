@@ -30,4 +30,5 @@ pipeline {
             emailext body: 'Summary', subject: 'Pipeline status', to: 'nikhilbankar4248@gmail.com'    
         }
     }
+
 }
